@@ -1,5 +1,5 @@
 <p align="center">
   <img src="logo.png">
   <br><br>
-  # Club Tenis de Mesa Los Barrios
+  <span style="font-family:sans-serif; font-size: 16px;">Club Tenis de Mesa Los Barrios</span>
 </p>
